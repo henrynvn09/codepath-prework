@@ -36,9 +36,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='http://i.imgur.com/U7hT2LG.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+👉🏿<img src='https://i.makeagif.com/media/8-26-2024/4fDVP1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with QuickTime
+
+GIF created with xconvert
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
