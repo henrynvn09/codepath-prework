@@ -1,0 +1,58 @@
+#AddEditCreator {
+  width: 30%;
+  margin: 0 auto;
+  margin-top: 80px;
+  text-align: left;
+}
+
+#AddEditCreator div {
+  font-size: 1.2em;
+}
+
+p {
+  font-style: italic;
+  font-size: 0.8rem;
+}
+
+#header {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 20px;
+  text-transform: capitalize;
+  color: lightblue;
+}
+
+#description {
+  background-color: white;
+  border-radius: 10px;
+  color: black;
+  border: 1px solid #d3d3d3;
+  padding: 0;
+  width: 100%;
+  padding: 15px 20px;
+  box-sizing: border-box;
+}
+
+#addCreatorForm > input {
+  margin: 0.5em 0;
+  background-color: white;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  color: black;
+  border-width: 0;
+  padding: 15px 20px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.fa-brands {
+  margin-right: 5px;
+}
+
+#submit-button {
+  background-color: #5085b4;
+  border: none;
+  width: 100%;
+  padding: 1rem 1rem;
+  margin: 0.5em 0;
+}

@@ -1,0 +1,75 @@
+#ViewCreator {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-template-rows: repeat(2, 1fr);
+  gap: 3rem;
+  width: 80%;
+  margin: auto;
+  margin-top: 30px;
+}
+.creator-image {
+  border: 1px solid lightblue;
+  border-radius: 5px;
+}
+
+.image-container {
+  width: 100%;
+  max-width: 400px;
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+}
+
+.creator-info {
+  text-align: left;
+}
+
+.creator-description {
+  font-style: normal;
+  font-size: 1rem;
+}
+
+.socials {
+  display: block;
+  font-weight: 700;
+  background: none;
+}
+
+.socials:hover {
+  background-color: #138cad;
+  transition: 0.3s;
+  margin-left: 3px;
+}
+
+#back-edit-container {
+  grid-column: span 2;
+}
+
+.navigate-button {
+  width: 30%;
+  max-width: 300px;
+  height: 60px;
+  margin-left: 30px;
+}
+
+.edit-button {
+  background-color: #138cad;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.edit-button:hover {
+  background-color: #0a5f7b;
+}
+
+.delete-button {
+  background-color: #ff0000;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.delete-button:hover {
+  background-color: #a30000;
+}
