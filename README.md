@@ -36,7 +36,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-👉🏿<img src='https://i.makeagif.com/media/8-26-2024/4fDVP1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+👉🏿<a href='https://i.imgur.com/U7hT2LG.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough'> Video Walkthrough</a>
+
+
+![Screen+Recording+2024-08-25+at+10](https://github.com/user-attachments/assets/388cc74f-9eab-408c-8ca5-2e0f52439292)
+
 
 
 GIF created with xconvert
